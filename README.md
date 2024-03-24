@@ -6,15 +6,14 @@
 - 🔭 I’m currently working on **Shape-U Educational Platform**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-pi-three-84.vercel.app/](https://portfolio-pi-three-84.vercel.app/)
-- 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 💬 Ask me about Web Development **React, Java, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **vaibhpan02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Vaibhavpan02/Vaibhavpan02/assets/89473295/57967137-5fe3-4650-99dd-b92034d2572d)
-">
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhpan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhpan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/vaibhavpan02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vaibhavpan02/" height="30" width="40" /></a>
